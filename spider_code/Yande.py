@@ -72,3 +72,6 @@ if __name__ == '__main__':
         post_info = connection.yande_test  # 指定数据库名称（yande_test），没有则创建
         post_sub = post_info.test  # 获取集合名：test
         get_max_page(url, headers)
+
+
+        # 测试sourcetree
